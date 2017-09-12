@@ -19,5 +19,6 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 ## Adventures
 
 ## Strategy
+- [Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game)) - Legendary turn-based strategy game series in which you attempt to build an empire to stand the test of time.
 
 ## Sports
