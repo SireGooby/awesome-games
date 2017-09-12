@@ -2,11 +2,11 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Additions should be added alphabetically to the relevant category.
+- Additions should be added alphabetically to the relevant genre.
 - Check your spelling and grammar.
 - Keep descriptions short and simple, but descriptive.
 - Make an individual pull request for each suggestion.
-- New categories, or improvements to the existing categorization are welcome.
+- New genres, or improvements to the existing  genre categorization are welcome.
 - Make sure your text editor is set to remove trailing whitespace.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Start the description with a capital and end the sentence (including links) with a full stop/period.
