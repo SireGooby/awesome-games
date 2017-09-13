@@ -15,7 +15,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Sports](£sports)
 
 ## Action
-- [Natural-Selection 2](https://en.wikipedia.org/wiki/Natural_Selection_2)) - Awesome space FPS/RTS games with aliens and marines!
+- [Natural-Selection 2](https://en.wikipedia.org/wiki/Natural_Selection_2) - Awesome space FPS/RTS games with aliens and marines!
 
 ## Adventures
 
