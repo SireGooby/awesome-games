@@ -15,7 +15,7 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Sports](£sports)
 
 ## Action
-  [Garry's mod](https://en.wikipedia.org/wiki/Garry%27s_Mod) - Garry's mod is a Half-life 2 mod developed by Garry Newman. It's built using the source engine and it's a sandbox physics action game with probably (No confirmed sources) the biggest modding community in the galaxy xd lmao
+- [Garry's mod](https://en.wikipedia.org/wiki/Garry%27s_Mod) - Garry's mod is a Half-life 2 mod developed by Garry Newman. It's built using the source engine and it's a sandbox physics action game with probably (No confirmed sources) the biggest modding community in the galaxy xd lmao
 
 ## Adventures
 
