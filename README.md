@@ -15,12 +15,19 @@ Feel like [contributing](CONTRIBUTING.md) to this list? Please make sure you rea
 - [Sports](£sports)
 
 ## Action
-- [Garry's mod](https://en.wikipedia.org/wiki/Garry%27s_Mod) - Garry's mod is a Half-life 2 mod developed by Garry Newman. It's built using the source engine and it's a sandbox physics action game with probably (No confirmed sources) the biggest modding community in the galaxy xd lmao
+
+- [Garry's mod](https://en.wikipedia.org/wiki/Garry%27s_Mod) - Garry's mod is a Half-life 2 mod developed by Garry Newman. It's built using the source engine and it's a sandbox physics action game with probably (No confirmed sources) the biggest modding community in the galaxy xd lmao.
+
+- [Natural-Selection 2](https://en.wikipedia.org/wiki/Natural_Selection_2) - Awesome space FPS/RTS games with aliens and marines!
+
 
 ## Adventures
 
 ## Strategy
 - [Civilization](https://en.wikipedia.org/wiki/Civilization_(video_game)) - Legendary turn-based strategy game series in which you attempt to build an empire to stand the test of time.
+
 - [Rimworld](https://rimworldgame.com/) - An epic survival game where you build a colony on a rimworld planet. Like dwarf fortress but with better graphics and IN SPACE!
+
+- [Rome: Total War](https://en.wikipedia.org/wiki/Rome:_Total_War) - Awesome and deep turn-based strategy game in which you attempt to build an empire to conquer the known world (Europe + a bit of Africa and Asia). Also, you can direct the battles yourself, which means that you can feel super awesome when winning against very unlikely odds!
 
 ## Sports
